@@ -37,7 +37,7 @@ Pré-requisitos: npm / yarn
 git clone https://github.com/jonatasdamata/desafio-tecnico
 
 # entrar na pasta do projeto 
-cd desafio-tecnico1
+cd desafio-tecnico
 
 # instalar dependências
 yarn install
