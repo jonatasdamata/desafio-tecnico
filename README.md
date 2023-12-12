@@ -34,7 +34,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/jonatasdamata/desafio-tecnico1
+git clone https://github.com/jonatasdamata/desafio-tecnico
 
 # entrar na pasta do projeto 
 cd desafio-tecnico1
