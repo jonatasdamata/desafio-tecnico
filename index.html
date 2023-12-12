@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DESAFIO 1/ FLUTTER/ ESTAGIÁRIO</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <main>
+        <header>
+            <div class="title-container">
+                <h1>Desafio Técnico 1</h1>                
+                <h2>SOMATÓRIO - MÚLTIPLOS DE 3 OU 5</h2>
+            </div>
+        </header>
+        <section>
+            <h3>Digite um número inteiro positivo:</h3>
+            <div>
+                <label for="numero">Número:</label>
+                <input type="number" name="num" id="numero">
+                <input type="button" value="Gerar o resultado!" onclick="somatorio()">
+            </div>
+            <div>
+                <textarea name="resultado" id="setResultado" cols="30" rows="10">Resultado...</textarea>
+                <p><strong>Observação:</strong> A função calculará o somatório de todos os números inteiros que sejam divisíveis por 3 ou 5 e que sejam menores que o número inserido.</p>
+
+            </div>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
