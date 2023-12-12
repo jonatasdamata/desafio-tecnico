@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-https://jonatasdamata.github.io/desafio-tecnico1/
+https://jonatasdamata.github.io/desafio-tecnico/
 
 Este projeto consiste em uma aplicação simples em JavaScript, que calcula o somatório de todos os valores inteiros que são divisíveis por 3 ou 5, como regra, os números necessitam ser inferiores ao número inserido pelo usuário.
 
