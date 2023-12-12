@@ -46,7 +46,7 @@ yarn install
 yarn start
 ```
 
-Após clonar o repositório, abra o link no navegador, ou se preferir acesse diretamente em: https://jonatasdamata.github.io/desafio-tecnico1/
+Após clonar o repositório, abra o link no navegador, ou se preferir acesse diretamente em: https://jonatasdamata.github.io/desafio-tecnico/
 
 Ao acessar a página, o usuário terá um input (campo de entrada) onde deverá inserir um número inteiro positivo;
 
